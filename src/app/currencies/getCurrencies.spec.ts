@@ -1,4 +1,4 @@
-import { getCurrencies } from './getCurrencies ';
+import { getCurrencies } from './getCurrencies';
 
 describe('currencies', () => { // currencies suite
 	it ('should return the supported currencies', () => {
